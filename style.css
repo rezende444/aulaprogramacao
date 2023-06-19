@@ -31,3 +31,62 @@ body {
  text-decoration: none;
  color: white;
 }
+
+ .escola-imagem {
+  width: 25%;
+ }
+
+ #escola {
+   background-color: aqua;
+   color: white;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 24px 0;
+ }
+
+  .escola-div-conteudo {
+    width: 35;
+  }
+
+  .escola-titulo {
+    padding: 24px 0;
+  }
+
+  #estudante {
+    padding: 24px 0;
+  }
+
+  .estudante-imagem {
+    width: 120px;
+  }
+
+  .estudante-icone {
+    width: 24px;
+    padding: 4px 8px;
+  }
+
+  .estudante-div {
+    text-align: grid;
+    padding: 16px 0;
+  }
+
+
+  .estudante-titulo {
+     text-align: center;
+     padding: grid;
+     grid-template-columns: 20% 20% 20% 20% 20%;
+  }
+
+  .rodape {
+   background-color: black;
+   text-align: center;
+  }
+
+
+ .rodape-imagem {
+   height: 60px;
+   padding: 12px 0;
+ }
+
+
